@@ -1,4 +1,4 @@
-Code Book
+CODE BOOK
 
 The files that will be used to load data are listed as follows:
 
@@ -146,6 +146,9 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+
+
+Source:
 
 ~ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones:
 
